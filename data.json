@@ -1,0 +1,187 @@
+[
+  {
+    "digit":  0,
+    "color": "green",
+    "even": "none"
+  },
+  {
+    "digit":  1,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  2,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  3,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  4,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  5,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  6,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  7,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  8,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  9,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  10,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  11,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  12,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  13,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  14,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  15,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  16,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  17,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  18,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  19,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  20,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  21,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  22,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  23,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  24,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  25,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  26,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  27,
+    "color": "red",
+    "even": "odd"
+  },
+  {
+    "digit":  28,
+    "color": "black",
+    "even": "even"
+  },
+  {
+    "digit":  29,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  30,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  31,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  32,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  33,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  34,
+    "color": "red",
+    "even": "even"
+  },
+  {
+    "digit":  35,
+    "color": "black",
+    "even": "odd"
+  },
+  {
+    "digit":  36,
+    "color": "red",
+    "even": "even"
+  }
+]
